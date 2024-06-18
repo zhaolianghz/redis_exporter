@@ -1,4 +1,5 @@
 ARG GOARCH
+ARG GOARCH=amd64
 #
 # build container
 #
